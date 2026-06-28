@@ -1,218 +1,304 @@
-# free-host
-how to create free host for WordPress/Joomala/HTML CSS &amp; ...
-
 ```md
-# 🌐 بهترین سرویس‌های رایگان هاست، دامنه، VPS و میزبانی محتوا
+<div align="center">
 
-در دنیای توسعه وب، بسیاری از پروژه‌ها را می‌توان بدون پرداخت هزینه آغاز کرد. سرویس‌های رایگان متعددی برای میزبانی وب‌سایت، ثبت دامنه، سرور مجازی، میزبانی ویدئو و ویکی وجود دارند که برای دانشجویان، توسعه‌دهندگان و پروژه‌های شخصی بسیار کاربردی هستند.
+# 🌐 Free Hosting & Cloud Resources Collection
+
+### بهترین سرویس‌های رایگان هاست، دامنه، VPS و میزبانی محتوا
+
+<p>
+مجموعه‌ای از بهترین سرویس‌های رایگان اینترنتی برای توسعه‌دهندگان، دانشجویان و علاقه‌مندان به دنیای وب
+</p>
+
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
+
+</div>
 
 ---
 
-# 🚀 هاست رایگان وب (Free Web Hosting)
+## 📑 فهرست مطالب
 
-## InfinityFree
+- 🚀 هاست رایگان
+- 💼 هاست نمایندگی
+- 🌍 دامنه رایگان
+- 🖥️ VPS رایگان
+- 🎥 میزبانی ویدئو
+- 📚 ویکی رایگان
+- 👨‍💻 درباره سازنده
+
+---
+
+# 🚀 Free Web Hosting
+
+## 🌟 InfinityFree
+
 🔗 https://www.infinityfree.com/
 
-ارائه فضای ذخیره‌سازی و پهنای باند نامحدود همراه با پشتیبانی از PHP و MySQL و ساب‌دامین رایگان.
+- فضای ذخیره‌سازی نامحدود
+- پهنای باند نامحدود
+- پشتیبانی از PHP و MySQL
+- ساب‌دامین رایگان
 
-## 000webhost
+---
+
+## 🌟 000webhost
+
 🔗 https://www.000webhost.com/
 
-امکان نصب وردپرس با یک کلیک، 300 مگابایت فضا و 3 گیگابایت پهنای باند.
+- نصب وردپرس با یک کلیک
+- 300MB فضای ذخیره‌سازی
+- 3GB پهنای باند
 
-## AwardSpace
+---
+
+## 🌟 AwardSpace
+
 🔗 https://www.awardspace.com/
 
-هاست رایگان با 1 گیگابایت فضا و قابلیت میزبانی تا 4 وب‌سایت.
+- 1GB فضای ذخیره‌سازی
+- 5GB پهنای باند
+- میزبانی 4 وب‌سایت
 
-## Freehostia
+---
+
+## 🌟 Freehostia
+
 🔗 https://www.freehostia.com/
 
-پشتیبانی از PHP و MySQL و امکان میزبانی تا 5 دامنه.
+- پشتیبانی از PHP و MySQL
+- میزبانی 5 دامنه
 
-## ByetHost
+---
+
+## 🌟 ByetHost
+
 🔗 https://byet.host/
 
-دارای 1 گیگابایت فضا، 50 گیگابایت پهنای باند و دسترسی FTP.
+- 1GB فضای ذخیره‌سازی
+- 50GB پهنای باند
+- FTP رایگان
 
-## GoogieHost
+---
+
+## 🌟 GoogieHost
+
 🔗 https://googiehost.com/
 
-ارائه فضای ذخیره‌سازی، پهنای باند و دیتابیس نامحدود.
+- دیتابیس نامحدود
+- فضای ذخیره‌سازی نامحدود
 
-## x10Hosting
+---
+
+## 🌟 x10Hosting
+
 🔗 https://x10hosting.com/
 
-پشتیبانی از cPanel، PHP، MySQL و نصب خودکار اسکریپت‌ها.
+- cPanel رایگان
+- PHP و MySQL
+- نصب خودکار اسکریپت‌ها
 
-## FreeHostingNoAds
+---
+
+## 🌟 FreeHostingNoAds
+
 🔗 https://freehostingnoads.net/
 
-هاست رایگان بدون تبلیغات با 20 گیگابایت فضای ذخیره‌سازی.
+- بدون تبلیغات
+- 20GB فضای ذخیره‌سازی
 
-## FreeHostingEU
+---
+
+## 🌟 FreeHostingEU
+
 🔗 https://www.freehostingeu.com/
 
-پشتیبانی از PHP و MySQL همراه با هاست رایگان.
+- پشتیبانی PHP
+- MySQL
 
-## FreeWebHostingArea
+---
+
+## 🌟 FreeWebHostingArea
+
 🔗 https://www.freewebhostingarea.com/
 
-ارائه FTP، PHP و MySQL با پهنای باند بالا.
+- FTP
+- پهنای باند بالا
 
-## HelioHost
+---
+
+## 🌟 HelioHost
+
 🔗 https://heliohost.org/
 
-یکی از محبوب‌ترین هاست‌های رایگان برای پروژه‌های شخصی.
+یکی از محبوب‌ترین سرویس‌های هاست رایگان.
 
-## TuxFamily
+---
+
+## 🌟 TuxFamily
+
 🔗 https://www.tuxfamily.org/
 
-مناسب پروژه‌های متن‌باز، گروهی و غیرانتفاعی.
+مناسب پروژه‌های متن‌باز.
 
-## InstaFree
+---
+
+## 🌟 InstaFree
+
 🔗 https://www.instafree.com/
 
-هاست رایگان همراه با cPanel و پشتیبانی از PHP و MySQL.
+هاست رایگان همراه با cPanel.
 
-## ProFreeHost
+---
+
+## 🌟 ProFreeHost
+
 🔗 https://profreehost.com/
 
-فضای ذخیره‌سازی و پهنای باند نامحدود.
+پهنای باند و فضای نامحدود.
 
-## FreeHosting.com
+---
+
+## 🌟 FreeHosting.com
+
 🔗 https://www.freehosting.com/
 
-ارائه 10 گیگابایت فضای ذخیره‌سازی و پهنای باند نامحدود.
+10GB فضای ذخیره‌سازی.
 
-## Google Sites
+---
+
+## 🌟 Google Sites
+
 🔗 https://sites.google.com/
 
-سرویس رایگان گوگل برای ساخت و انتشار وب‌سایت.
+ساخت سایت رایگان توسط گوگل.
 
-## Xrea
+---
+
+## 🌟 Xrea
+
 🔗 https://www.xrea.com/
 
-هاست رایگان با پشتیبانی از PHP و MySQL.
+هاست رایگان با PHP و MySQL.
 
 ---
 
-# 💼 هاست نمایندگی رایگان (Free Reseller Hosting)
+# 💼 Free Reseller Hosting
 
 ## ResellersPanel
+
 🔗 https://www.resellerspanel.com/
 
-فروش هاست و دامنه بدون سرمایه اولیه.
-
 ## ResellerCluster
+
 🔗 https://resellercluster.com/
 
-فروش خدمات هاستینگ با برند شخصی.
-
 ## MyOwnFreeHost
+
 🔗 https://myownfreehost.net/
 
-ایجاد پکیج‌های میزبانی اختصاصی.
-
 ---
 
-# 🌍 ارائه‌دهندگان دامنه رایگان
+# 🌍 Free Domain Providers
 
 ## Freenom
+
 🔗 https://www.freenom.com/
 
-ثبت دامنه‌های رایگان مانند .tk و .ml.
-
 ## Dot.tk
+
 🔗 https://www.dot.tk/
 
-ثبت دامنه رایگان با پسوند .tk.
-
 ## EU.org
+
 🔗 https://eu.org/
 
-ثبت زیردامنه رایگان eu.org.
-
 ## FreeDNS.afraid.org
+
 🔗 https://freedns.afraid.org/
 
-سرویس رایگان DNS و Dynamic DNS.
-
 ---
 
-# 🖥️ سرور مجازی رایگان (Free VPS)
+# 🖥️ Free VPS Providers
 
 ## VPSWALA
+
 🔗 https://vpswala.org/
 
-ارائه VPS رایگان برای تست و توسعه.
-
 ## InstaFree VPS
+
 🔗 https://www.instafree.com/
 
-ارائه سرویس VPS آزمایشی.
-
 ## Oracle Cloud Free Tier
+
 🔗 https://www.oracle.com/cloud/free/
 
-سرویس ابری رایگان اوراکل با امکان دریافت VPS.
-
 ---
 
-# 🎥 سرویس‌های رایگان میزبانی ویدئو
+# 🎥 Free Video Hosting
 
 ## YouTube
+
 🔗 https://www.youtube.com/
 
-بزرگ‌ترین پلتفرم اشتراک ویدئو.
-
 ## Vimeo
+
 🔗 https://vimeo.com/
 
-مناسب برای میزبانی و جاسازی ویدئو.
-
 ## Dailymotion
+
 🔗 https://www.dailymotion.com/
 
-سرویس اشتراک ویدئو.
-
 ## PeerTube
-🔗 https://joinpeertube.org/
 
-پلتفرم غیرمتمرکز میزبانی ویدئو.
+🔗 https://joinpeertube.org/
 
 ---
 
-# 📚 سرویس‌های رایگان ویکی
+# 📚 Free Wiki Hosting
 
 ## Fandom
+
 🔗 https://www.fandom.com/
 
-ساخت ویکی برای انجمن‌ها و جوامع.
-
 ## Miraheze
-🔗 https://miraheze.org/
 
-میزبانی رایگان ویکی بر پایه MediaWiki.
+🔗 https://miraheze.org/
 
 ---
 
 # ✅ جمع‌بندی
 
-اگر قصد دارید بدون پرداخت هزینه پروژه‌ای را آغاز کنید، سرویس‌های معرفی‌شده می‌توانند گزینه‌های بسیار مناسبی باشند. برای پروژه‌های حرفه‌ای و تجاری، استفاده از سرویس‌های پولی و اختصاصی توصیه می‌شود.
+> این فهرست می‌تواند نقطه شروع بسیار مناسبی برای توسعه‌دهندگان، دانشجویان، استارتاپ‌ها و پروژه‌های شخصی باشد.
 
 ---
 
-# 👨‍💻 درباره سازنده و پلتفرم آموزشی
+<div align="center">
 
-این پروژه با عشق و دقت توسط **جواد شقاقی** توسعه یافته است. هدف مجموعه **یادبگیرش**، ارتقای سطح یادگیری جامعه برنامه‌نویسی و ارائه آموزش‌های تخصصی، کاربردی و پروژه‌محور است.
+# 👨‍💻 درباره سازنده
 
-برای دسترسی به آموزش‌ها، مقالات و دوره‌های تخصصی می‌توانید از راه‌های زیر استفاده کنید:
+این پروژه با ❤️ توسط **جواد شقاقی** توسعه یافته است.
 
-- 🌐 وب‌سایت رسمی: [یادبگیرش](https://yadbegiresh.ir/)
-- 📢 تلگرام: [کانال تلگرام](https://t.me/yadbegiresh)
-- 💼 لینکدین: [پروفایل لینکدین](https://www.linkedin.com/in/yadbegiresh)
-- 🐦 توییتر (X): [صفحه توییتر](https://twitter.com/yadbegiresh)
-- 🎥 یوتیوب: [یوتیوب یادبگیرش](https://www.youtube.com/@yadbegiresh-ir)
-- 📸 اینستاگرام: [اینستاگرام یادبگیرش](https://instagram.com/yadbegiresh.ir)
+هدف مجموعه **یادبگیرش** ارائه آموزش‌های تخصصی، پروژه‌محور و کاربردی برای جامعه برنامه‌نویسی است.
+
+</div>
+
+---
+
+## 🌐 شبکه‌های اجتماعی یادبگیرش
+
+- 🌍 **وب‌سایت:** https://yadbegiresh.ir/
+- 📢 **تلگرام:** https://t.me/yadbegiresh
+- 💼 **لینکدین:** https://www.linkedin.com/in/yadbegiresh
+- 🐦 **توییتر (X):** https://twitter.com/yadbegiresh
+- 🎥 **یوتیوب:** https://www.youtube.com/@yadbegiresh-ir
+- 📸 **اینستاگرام:** https://instagram.com/yadbegiresh.ir
+
+---
+
+<div align="center">
+
+### ⭐ اگر این پروژه برای شما مفید بود، به آن Star بدهید.
+
+</div>
 ```
